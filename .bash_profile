@@ -325,8 +325,19 @@ pdflatex $LATEXFILENAME && open $PDFFILENAME
 
 alias ipynb='ipython notebook'     #Open ipython notebook with command 'ipynb'
 
+#   git related
+#   -------------------------------------------------------------------
+alias gitin='git init'                   #Initialize the local directory as a Git repository
+alias gitcl='git clone'                  #Git clone action to clone from Server
+alias gitad='git add'                    #Adds the files in the local repository and stages them for commit
+alias gitus='git reset HEAD'             #To unstage a file
+alias gitcm='git commit -m'              #Commits the tracked changes and prepares them to be pushed to a remote repository
+alias gitra='git remote add origin'      #Sets the new remote
+alias gitrv='git remote -v'              #Git verifies the new remote URL
+alias gitps='git push origin master'     #Git push action to push the staged file on to GitHub Server
+
 #   ---------------------------------------
-#   11.  Emacs Related
+#   11.  Editor Related
 #   ---------------------------------------
 
 #   Set Default Editor (change 'Nano' to the editor of your choice)
