@@ -1,0 +1,115 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "usr/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/LaTex/" . "first document/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/" . "LaTex/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/" . "3/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/" . "Hws/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/" . "Spring2015/")
+ ("/Users/wd/Dropbox/" . "2015.1-2015.12/")
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/COMP4641/" . "HWs/")
+ ("/Users/wd/.emacs.d/elpa/" . "company-0.8.12/")
+ ("/Users/wd/.emacs.d/" . "elpa/")
+ ("/Users/wd/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/3/"
+ "/Users/wd/.emacs.d/"
+ "/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Chapters/"
+ "/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Appendices/"
+ "/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/"
+ "/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Primitives/"
+ "/Users/wd/Dropbox/2015.1-2015.12/Spring2015/ECON2123/article_4/"
+ "/Users/wd/Downloads/article_4/"
+ "/Users/wd/Workspace/FriendsGalaxy/"
+ "/Users/wd/Workspace/TwitterGalaxy/"
+ "/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/LaTex/first document/"
+ "/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/2/"
+ "/Users/wd/.emacs.d/elpa/company-0.8.12/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "IELM2200_HW3_WangDing_20026270.tex"
+ "init.el"
+ "Chapter2.tex"
+ "Chapter5.tex"
+ "Chapter7.tex"
+ "Chapter6.tex"
+ "Chapter4.tex"
+ "Chapter3.tex"
+ "Chapter1.tex"
+ "Chapter8.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/wd/Temp/" (21823 50723 0 0) "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/4/" (21823 33857 0 0) "IELM2200_HW4_WangDing_20026270.tex" "IELM2200_HW4_WangDing_20026270.pdf" "IELM2200_HW4_WangDing_20026270.log" "IELM2200_HW4_WangDing_20026270.aux" "IELM2200+HW4.pdf" "../" "./")
+
+ ("/Users/wd/.emacs.d/" (21823 12527 0 0) "tramp" "snippets/" "site-lisp/" "semanticdb/" "recentf" "README.org" "pyim/" "localelpa/" "lisp/" "jdee-2.4.1/" "init.el~" "init.el" "ido.last~" "ido.last" "history" "elpa/" "defuns/" "BETA.org" "autosave/" "auto-save-list/" "abbrev_defs" ".session" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/wd/" (21823 12277 0 0) "Workspace/" "Temp/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications (Parallels)/" "Applications/" "anaconda/" ".Xauthority" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".smex-items" ".rnd" ".mysql_history" ".matplotlib/" ".matlab/" ".ipython/" ".gitconfig" ".emacs.keyfreq" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".CFUserTextEncoding" ".cache/" ".bash_profile" ".bash_history" ".backups/" "../" "./")
+
+ ("/Users/wd/Dropbox/" (21823 505 0 0) "Temp/" "Icon
+" "GoogleDrive/" "Docs/" "Dear/" "Camera Uploads/" "2015.1-2015.12/" "2014.1-2014.12/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/" (21816 34433 0 0) "4/" "3/" "2/" "1/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Chapters/" (21814 4215 0 0) "ChapterTemplate.tex" "Chapter8.tex" "Chapter7.tex" "Chapter6.tex" "Chapter5.tex" "Chapter4.tex" "Chapter3.tex" "Chapter2.tex" "Chapter1.tex" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/" (21814 1750 0 0) "WindowOnload.js" "vector.sty" "Thesis.cls~" "Thesis.cls" "StorehandPos.js" "Primitives/" "Pictures/" "NodeScript.gml" "MouseControl.js" "Missing Packages/" "main.toc" "main.tex~" "main.tex" "main.pdf" "main.out" "main.lot" "main.log" "main.lof" "main.aux" "lstpatch.sty" "loadUserobj.js" "leapToScene.js" "handleFile.js" "gmltoJSON.js" "Figures/" "EstConnection.js" "EdgeScript.gml" "Codes/" "Chapters/" "CalIntimacy.js" "Bibliography.bib" "Appendices/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Appendices/" (21812 37557 0 0) "AppendixTemplate.tex" "AppendixA.tex" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2014.1-2014.12/FYP/FinalReport/Primitives/" (19882 52174 0 0) "Electron.doc" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/ECON2123/article_4/" (21811 46098 0 0) "structure.tex" "sample.bib" "Figures/" "article_4.toc" "article_4.tex" "article_4.pdf" "article_4.out" "article_4.lot" "article_4.log" "article_4.lof" "article_4.aux" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Downloads/article_4/" (21811 45134 0 0) "structure.tex" "sample.bib" "Figures/" "article_4.toc" "article_4.tex" "article_4.pdf" "article_4.out" "article_4.lot" "article_4.log" "article_4.lof" "article_4.aux" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Workspace/FriendsGalaxy/" (21811 26954 0 0) "wsc.png" "WangDing.json" "WangDing.gml" "textures/" "readData.js" "libs/" "galaxy3.js" "galaxy.js" "friends_space_4.html" "friends_space ver2.html" "canvas.js" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Workspace/TwitterGalaxy/" (21807 56572 0 0) "users.xml" "TwitterGalaxy.java" "TwitterGalaxy.class" "textures/" "libs/" "galaxy.js" "FriendshipMining.java" "FriendshipMining.class" "friends_space ver2.html" "DriverSQL.java" "DriverSQL.class" "ConnectJS.java" "ConnectJS.class" "books.xml" ".DS_Store" ".#TwitterGalaxy.java" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/3/" (21807 10924 0 0) "IELM2200_Tutorial3Spring2015.xlsx" "IELM2200_HW3_WangDing_20026270.tex" "IELM2200_HW3_WangDing_20026270.pdf" "IELM2200_HW3_WangDing_20026270.log" "IELM2200_HW3_WangDing_20026270.aux" "IELM2200+HW3_2015.pdf" "../" "./")
+
+ ("/Users/wd/.emacs.d/elpa/company-0.8.12/" (21788 49681 0 0) "company.elc" "company.el" "company-yasnippet.elc" "company-yasnippet.el" "company-xcode.elc" "company-xcode.el" "company-tempo.elc" "company-tempo.el" "company-template.elc" "company-template.el" "company-semantic.elc" "company-semantic.el" "company-ropemacs.elc" "company-ropemacs.el" "company-pysmell.elc" "company-pysmell.el" "company-pkg.el" "company-oddmuse.elc" "company-oddmuse.el" "company-nxml.elc" "company-nxml.el" "company-keywords.elc" "company-keywords.el" "company-ispell.elc" "company-ispell.el" "company-gtags.elc" "company-gtags.el" "company-files.elc" "company-files.el" "company-etags.elc" "company-etags.el" "company-elisp.elc" "company-elisp.el" "company-eclim.elc" "company-eclim.el" "company-dabbrev.elc" "company-dabbrev.el" "company-dabbrev-code.elc" "company-dabbrev-code.el" "company-css.elc" "company-css.el" "company-cmake.elc" "company-cmake.el" "company-clang.elc" "company-clang.el" "company-capf.elc" "company-capf.el" "company-bbdb.elc" "company-bbdb.el" "company-autoloads.el~" "company-autoloads.el" "company-abbrev.elc" "company-abbrev.el" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/Hws/2/" (21806 10995 0 0) "PS2.tex" "PS2.pdf" "IELM2200+HW2_2015.pdf" "b.jpg" "a.jpg" "../" "./")
+
+ ("/usr/" (21788 61443 0 0) "X11R6/" "X11/" "texbin/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/home/" (21805 64336 251623 0) "../" "./")
+
+ ("/Users/" (21780 15769 0 0) "wd/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/LaTex/first document/" (21780 14573 0 0) "subscripts and superscripts.tex" "matrices.tex" "first document.tex" "align environment.tex" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/LaTex/" (21780 14270 0 0) "templates/" "first document/" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/NonClass/" (21788 51644 0 0) "Scholarship/" "LaTex/" "JP/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/IELM2200/" (21783 32747 0 0) "Tutorials/" "Sources/" "Notes/" "IELM2200_Syll_2015.pdf" "Hws/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/" (21787 31970 0 0) "Spring2015/" "Fall2015/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/COMP4641/HWs/" (21785 15953 0 0) "COMP4641_hw1.pdf" "1/" "0/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/COMP4641/" (21785 15947 0 0) "Project/" "Notes/" "Labs/" "Icon
+" "HWs/" "4641 Paper reading.docx" ".DS_Store" ".dropbox" "../" "./")
+
+ ("/Users/wd/Dropbox/2015.1-2015.12/Spring2015/" (21787 31997 0 0) "NonClass/" "MATH4335/" "IELM2200/" "FINA3104/" "ECON2123/" "COMP4641/" "COMP1022Q/" ".DS_Store" "../" "./")
+
+ ("/Users/wd/.emacs.d/elpa/" (21782 54036 0 0) "yasnippet-0.9.0.1/" "yaml-mode-20141125.37/" "yagist-0.8.11/" "writeroom-mode-2.9/" "wgrep-20141016.1656/" "web-20141231.1201/" "w3m-20150313.241/" "visual-fill-column-1.4/" "unfill-0.1/" "textile-mode-20120721.1258/" "tagedit-1.4.0/" "switch-window-20150114.215/" "string-edit-0.1.0/" "sr-speedbar-20141004.532/" "simpleclip-1.0.0/" "session-20120510.1700/" "scss-mode-0.5.0/" "scratch-20120830.1028/" "sass-mode-20141219.324/" "s-1.9.0/" "rvm-1.3.0/" "ruby-compilation-2.11/" "robe-20150222.1644/" "rinari-2.11/" "regex-tool-20131104.1434/" "rainbow-delimiters-2.1.1/" "quack-20130126.1623/" "pomodoro-20140318.1049/" "pointback-20100210.752/" "paredit-24/" "page-break-lines-0.10/" "packed-20150122.2048/" "noflet-20141102.654/" "mwe-log-commands-20100703.541/" "multiple-cursors-1.3.0/" "multi-term-20150220.1320/" "move-text-20140307.1644/" "mic-paren-20140714.719/" "markdown-mode-2.0/" "magit-90150116/" "lua-mode-20150303.1303/" "less-css-mode-0.19/" "legalese-20100119.2148/" "kv-20140108.734/" "jump-2.3/" "json-rpc-20140602.806/" "json-mode-1.1.0/" "js2-mode-20141118/" "inflections-20121016.157/" "inf-ruby-20150222.1742/" "idomenu-20141123.1320/" "ibuffer-vc-0.9/" "htmlize-20130207.1202/" "hl-sexp-1.0.0/" "haskell-mode-13.12/" "haml-mode-3.1.8/" "gitignore-mode-0.15.0/" "gitconfig-mode-20150316.1434/" "git-timemachine-2.1/" "git-rebase-mode-0.15.0/" "git-gutter-0.81/" "git-commit-mode-0.15.0/" "ggtags-0.8.9/" "fringe-helper-1.0.1/" "flyspell-lazy-0.6.10/" "flymake-sass-0.6/" "flymake-ruby-0.8/" "flymake-python-pyflakes-0.9/" "flymake-lua-20140310.230/" "flymake-jslint-0.23/" "flymake-easy-0.10/" "flymake-css-0.3/" "flymake-coffee-0.12/" "flx-ido-0.5/" "flx-0.5/" "findr-20130824.1207/" "fakir-20140729.952/" "f-0.17.2/" "expand-region-20141223.1328/" "exec-path-from-shell-1.9/" "erlang-20150319.456/" "emmet-mode-1.0.8/" "elnode-20140203.1506/" "dsvn-20130120.1257/" "dropdown-list-20120329.1636/" "dired-details-20130824.1158/" "dired+-20150326.1612/" "diminish-0.44/" "db-20140421.1411/" "dash-2.10.0/" "csharp-mode-20150315.345/" "crontab-mode-20090510.1355/" "creole-20140924.800/" "cpputils-cmake-0.5.0/" "company-c-headers-20140930.1102/" "company-anaconda-20150115.1101/" "company-0.8.12/" "color-theme-20080305.34/" "coffee-mode-0.6.0/" "cmake-mode-3.2.1/" "buffer-move-20141010.117/" "bookmark+-20150323.1813/" "bbdb-20140830.2031/" "auto-compile-20150306.733/" "archives/" "anaconda-mode-20150313.655/" "ag-0.45/" "ace-jump-mode-2.0/" "../" "./")
+
+ ("/Users/wd/Workspace/" (21788 5068 0 0) "TwitterGalaxy/" "Git_Uninstall/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
