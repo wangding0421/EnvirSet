@@ -59,6 +59,7 @@ alias ll='ls -FGlAhp'                       # Preferred 'ls' implementation
 alias la='ls -a'                            # Preferred 'ls -a' implementation
 alias lal='ls -al'                          # Preferred 'ls -al' implementation
 alias now='cd ~/Dropbox/2015.1-2015.12/Spring2015/'
+alias nds='cd ~/Library/Application\ Support/DeSmuME/0.9.11/Roms'
 alias less='less -FSRXc'                    # Preferred 'less' implementation
 cd() { builtin cd "$@"; ls; }               # Always list directory contents upon 'cd'
 #alias cd..='cd ../'                         # Go back 1 directory level (for fast typers)
@@ -275,6 +276,10 @@ httpHeaders () { /usr/bin/curl -I -L $@ ; }             # httpHeaders:      Grab
 #   httpDebug:  Download a web page and show info on what took time
 #   -------------------------------------------------------------------
     httpDebug () { /usr/bin/curl $@ -o /dev/null -w "dns: %{time_namelookup} connect: %{time_connect} pretransfer: %{time_pretransfer} starttransfer: %{time_starttransfer} total: %{time_total}\n" ; }
+
+#   FTP connection
+#   -------------------------------------------------------------------
+alias ftpihome="ftp ihome.ust.hk"                       # Make ftp connection to ihome.ust.hk
 
 
 #   ---------------------------------------
