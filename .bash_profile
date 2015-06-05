@@ -341,6 +341,10 @@ alias gitra='git remote add origin'      #Sets the new remote
 alias gitrv='git remote -v'              #Git verifies the new remote URL
 alias gitps='git push origin master'     #Git push action to push the staged file on to GitHub Server
 
+#   QT Related
+#   -------------------------------------------------------------------
+export QMAKESPEC=/Users/wd/anaconda/pkgs/qt-4.8.5-3/mkspecs/macx-g++     #Set the QMAKESPEC variable into correct path
+
 #   ---------------------------------------
 #   11.  Editor Related
 #   ---------------------------------------
