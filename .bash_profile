@@ -28,7 +28,7 @@
 #   Set Paths
 #   ------------------------------------------------------------
     export PATH="$PATH:/usr/local/bin/"
-    export PATH="/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:/Users/wd/anaconda/bin:/Applications/MATLAB_R2014a.app/bin:/Applications/Emacs.app/Contents/MacOS:$PATH"
+    export PATH="/usr/local/git/bin:/sw/bin/:/usr/local/bin:/usr/local/:/usr/local/sbin:/usr/local/mysql/bin:/Users/wd/anaconda/bin:/Applications/MATLAB_R2014a.app/bin:/Applications/Emacs.app/Contents/MacOS:/Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin:$PATH"
 
 
 #   Set Language for ipython notebook
@@ -58,7 +58,7 @@ alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
 alias ll='ls -FGlAhp'                       # Preferred 'ls' implementation
 alias la='ls -a'                            # Preferred 'ls -a' implementation
 alias lal='ls -al'                          # Preferred 'ls -al' implementation
-alias now='cd ~/Dropbox/2015.1-2015.12/Spring2015/'
+alias now='cd ~/Dropbox/2016.1-2016.12/Winter2016/'
 alias nds='cd ~/Library/Application\ Support/DeSmuME/0.9.11/Roms'
 alias less='less -FSRXc'                    # Preferred 'less' implementation
 cd() { builtin cd "$@"; ls; }               # Always list directory contents upon 'cd'
@@ -222,7 +222,8 @@ alias showBlocked='sudo ipfw list'                  # showBlocked:  All ipfw rul
 #Alias for SSH
 alias sust='ssh dwangac@csl2wk23.cse.ust.hk'
 alias sxust='ssh -X dwangac@csl2wk23.cse.ust.hk'
-
+alias sucsd='ssh diw005@login.eng.ucsd.edu'
+alias sxucsd='ssh -X diw005@login.eng.ucsd.edu'
 #   ii:  display useful host related informaton
 #   -------------------------------------------------------------------
     ii() {
@@ -330,6 +331,7 @@ pdflatex $LATEXFILENAME && open $PDFFILENAME
 
 alias ipynb='ipython notebook'     #Open ipython notebook with command 'ipynb'
 
+alias mlnd='matlab -nodesktop'     #Open matlab in no desktop version
 #   git related
 #   -------------------------------------------------------------------
 alias gitin='git init'                   #Initialize the local directory as a Git repository
