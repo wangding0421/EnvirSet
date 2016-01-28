@@ -334,6 +334,7 @@ alias ipynb='ipython notebook'     #Open ipython notebook with command 'ipynb'
 alias mlnd='matlab -nodesktop'     #Open matlab in no desktop version
 #   git related
 #   -------------------------------------------------------------------
+alias gitst='git status'                 #Check Git Status
 alias gitin='git init'                   #Initialize the local directory as a Git repository
 alias gitcl='git clone'                  #Git clone action to clone from Server
 alias gitad='git add'                    #Adds the files in the local repository and stages them for commit
