@@ -27,6 +27,7 @@ values."
      ;; better-defaults
      emacs-lisp
      osx
+     semantic
      ;; git
      markdown
      ;; org
