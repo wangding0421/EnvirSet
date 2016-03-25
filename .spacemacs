@@ -35,7 +35,8 @@ values."
      ;;        shell-default-height 30
      ;;        shell-default-position 'bottom)
      (c-c++ :variables
-            c-c++-default-mode-for-headers 'c++-mode)
+            c-c++-default-mode-for-headers 'c++-mode
+            c-c++-enable-clang-support t)
      latex
      spell-checking
      syntax-checking
