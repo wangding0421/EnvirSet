@@ -1,3 +1,2 @@
 export PATH="/usr/local/bin:$PATH"
 export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"
-export SPARK_PATH='/Users/wd/Workspace/spark_source/spark-1.6.1-bin-hadoop2.6'
