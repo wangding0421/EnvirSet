@@ -1,4 +1,5 @@
 alias e='open -a /usr/local/Cellar/emacs-mac/emacs-24.5-z-mac-5.15/Emacs.app $1' 
+alias now='cd ~/Dropbox/2016.1-2016.12/Spring2016/'
 
 # Set the terminal title to the current working directory.
 PS1="\[\033]0;\w\007\]";
