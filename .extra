@@ -29,3 +29,8 @@ git config --global user.name "wangding0421"
 git config --global user.email "wangding0421@gmail.com"
 git config --global user.signingkey 9AD93F1C
 git config --global credential.helper osxkeychain
+
+brew doctor
+brew update
+brew upgrade
+brew cleanup
