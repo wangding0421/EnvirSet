@@ -261,8 +261,6 @@ explicitly specified that a variable should be set before a package is loaded,
 you should place you code here."
   (setq eclim-eclipse-dirs "/Applications/Eclipse.app/Contents/Eclipse"
         eclim-executable "/Applications/Eclipse.app/Contents/Eclipse/eclim")
-  (setq cursor-type t
-        cursor-type '((bar . 2)))
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
