@@ -3,6 +3,11 @@ alias now='cd ~/Dropbox/2016.1-2016.12/Spring2016/'
 alias starteclimd='/Applications/Eclipse.app/Contents/Eclipse/eclimd'
 alias stopeeclimd='/Applications/Eclipse.app/Contents/Eclipse/eclim -command shutdown'
 
+function dockerclean() {
+    docker rm $(docker ps -a -q);
+    docker rmi $(docker images | grep "^<none>" | awk "{print $3}");
+}
+
 # Set the terminal title to the current working directory.
 PS1="\[\033]0;\w\007\]";
 PS1+="\[${white}\]____________________________________________________________________________________________________";
