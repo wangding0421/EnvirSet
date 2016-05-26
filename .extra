@@ -4,6 +4,7 @@ alias starteclimd='/Applications/Eclipse.app/Contents/Eclipse/eclimd'
 alias stopeeclimd='/Applications/Eclipse.app/Contents/Eclipse/eclim -command shutdown'
 
 function dockerclean() {
+    docker stop $(docker ps -a -q); 
     docker rm $(docker ps -a -q);
     docker rmi $(docker images | grep "^<none>" | awk "{print $3}");
 }
