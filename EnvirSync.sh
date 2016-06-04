@@ -7,3 +7,5 @@ git push origin master
 source ../dotfiles/bootstrap.sh
 
 rm ~/.curlrc
+
+cd ~/
