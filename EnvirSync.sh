@@ -7,5 +7,6 @@ git push origin master
 source ../dotfiles/bootstrap.sh
 
 rm ~/.curlrc
+cp ./.vimrc ~/
 
 cd ~/
