@@ -401,9 +401,9 @@ let g:UltiSnipsJumpBackwardTrigger="<leader><s-tab>"
 
 " YCM 补全菜单配色
 " 菜单
-highlight Pmenu ctermfg=2 ctermbg=3 guifg=#005f87 guibg=#EEE8D5
+" highlight Pmenu ctermfg=2 ctermbg=3 guifg=#FFFFFF guibg=#FFFFFF
 " 选中项
-highlight PmenuSel ctermfg=2 ctermbg=3 guifg=#AFD700 guibg=#106900
+" highlight PmenuSel ctermfg=2 ctermbg=3 guifg=#AFD700 guibg=#106900
 
 " 补全功能在注释中同样有效
 let g:ycm_complete_in_comments=1
@@ -412,7 +412,7 @@ let g:ycm_complete_in_comments=1
 let g:ycm_confirm_extra_conf=0
 
 " 开启 YCM 标签补全引擎
-let g:ycm_collect_identifiers_from_tags_files=0
+let g:ycm_collect_identifiers_from_tags_files=1
 "" 引入 C++ 标准库 tags
 "set tags+=/data/misc/software/app/vim/stdcpp.tags
 "set tags+=/data/misc/software/app/vim/sys.tags
