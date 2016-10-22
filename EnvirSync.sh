@@ -4,9 +4,7 @@ cp .extra .path .spacemacs ~/
 git ca -m "Synced"
 git push origin master
 
-source ../dotfiles/bootstrap.sh
-
 rm ~/.curlrc
-cp ./.vimrc ~/
+cp .vimrc ~/
 
 cd ~/
